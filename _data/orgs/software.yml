@@ -1,0 +1,21 @@
+
+name: 常用工具
+icon: fa fa-plug
+members:
+  - name: clover（官方）
+    link: http://clover-wiki.zetam.org/zh-CN/zh-CN.home
+
+  - name: clover configurator (clover设置工具)
+    link: http://www.hackintoshosx.com/files/file/49-clover-configurator/
+
+  - name: MACiASL (DSDT修改工具)
+    link: http://www.hackintoshosx.com/files/file/4607-acpica-iasl-intel-acpi-tools/
+
+  - name: MACiASL （RehabMan 维护版）
+    link: https://github.com/RehabMan/OS-X-MaciASL-patchmatic
+
+  - name:  VoodooHDA(万能声卡驱动)
+    link: http://sourceforge.net/projects/voodoohda/files/
+
+  - name: clover ALC (github上开源的Realtek ALC HD Audio 解决方案)
+    link: https://github.com/toleda/audio_CloverALC
