@@ -1,0 +1,37 @@
+markdown: kramdown
+highlighter: pygments
+permalink: /:year/:month/:day/:title.html
+paginate: 6	
+paginate_path: page/:num
+
+
+# Build settings
+# markdown: redcarpet
+# redcarpet:
+#     extensions: ["fenced_code_blocks", "tables", "highlight", "strikethrough"]
+
+#SyntaxHihglighter config start
+
+SyntaxHihglighter: true
+shTheme: shThemeDjango # shThemeDefault  shThemeDjango  shThemeEclipse  shThemeEmacs  shThemeFadeToGrey  shThemeMidnight  shThemeRDark
+
+#SyntaxHihglighter config end
+
+blog:
+    name: 猫叔博客                                          # 博客名称
+    description: 怕什么真理无穷,进一寸有意寸的欢乐                     # 博客描述
+    title: 猫叔博客                                         # 网页标题
+    url: https://www.maoshu.cc/                         # 博客地址
+    duoshuo: catcat                                       # 多说ID 
+    tongji: 63f76ff6b283e8e963573ae3b29b9f0b            # 百度统计ID
+    clickiTongJi: 					 # Clicki统计ID
+    qiniu:                                               # 七牛云地址
+author:
+    name: 猫叔博客                                          # 作者名称
+    email: m@maoshu.cc                               # 邮箱地址
+    weibo:                        # 微博地址
+    github:                    # GitHub地址
+    logo: /res/img/icon.jpeg                              # logo地址
+    douban:
+        name:                                            # 豆瓣地址名称
+        key:                                             # 豆瓣API Key
