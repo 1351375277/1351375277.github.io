@@ -14,7 +14,7 @@ redcarpet:
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-title : 猫叔博客test
+title : 猫叔博客
 tagline: Free as the wind
 author :
   name : maoshu
@@ -94,9 +94,9 @@ JB :
   comments :
     provider : duoshuo
     duoshuo :
-      short_name : liberize
+      short_name : catcat
     disqus :
-      short_name : liberize
+      short_name : catcat
     livefyre :
       site_id : 123
     intensedebate :
@@ -114,9 +114,9 @@ JB :
   analytics :
     provider : baidu
     baidu :
-      tracking_id : 'XXXXXXX' 
+      tracking_id : '63f76ff6b283e8e963573ae3b29b9f0b' 
     google : 
-      tracking_id : 'UA-XXXXXXX'
+      tracking_id : 
     getclicky :
       site_id : 
     mixpanel :
