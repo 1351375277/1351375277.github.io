@@ -5,6 +5,7 @@ layout: post
 category: tool
 tags: El Capitan
 ---
+{% include JB/setup %}
 
 ##  简介
 
