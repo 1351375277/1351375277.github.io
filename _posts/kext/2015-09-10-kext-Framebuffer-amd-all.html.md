@@ -1,13 +1,11 @@
 ---
-title: 利用AMD Framebuffer Utility 轻松驱动你的A卡
+title: "利用AMD Framebuffer Utility 轻松驱动你的A卡"
 layout: post
 permalink: /Framebuffer-amd-all.html
-category: kext
-tags: [AMD显卡驱动 , 显卡驱动]
-date : 2015-9-10
-duoshuo: true
+category: "kext"
+tags: ["AMD显卡驱动" , "显卡驱动"]
 ---
-
+{% include JB/setup %}
 
 本教程适用于：
 ● 如果您的电脑为双显卡，在BIOS中已经屏蔽了核芯显卡。

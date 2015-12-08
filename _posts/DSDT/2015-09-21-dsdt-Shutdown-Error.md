@@ -1,11 +1,11 @@
 ---
-title: 关机不断电修复DSDT代码
+title: "关机不断电修复DSDT代码"
 layout: post
-category: DSDT
-tags: [dsdt , 关机不断电 ,电源补丁]
-date : 2015-9-21
-duoshuo: true
+category: "DSDT"
+tags: ["dsdt" , "关机不断电" ,"电源补丁"]
 ---
+{% include JB/setup %}
+
 
 ## 教程正文
 

@@ -1,8 +1,8 @@
 ---
 layout: post
 permalink: /ElCapitan-u.html
-title: El Capitan 10.11系统U盘制作教程
-category: tool
+title: "El Capitan 10.11系统U盘制作教程"
+category: "tool"
 tags: ["ElCapitan" , "系统安装盘教程"]
 ---
 {% include JB/setup %}

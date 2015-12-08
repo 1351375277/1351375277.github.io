@@ -1,21 +1,20 @@
 ---
 layout: post
 permalink: /clover-mod-disk.html
-title: clover 隐藏多余的磁盘
-category: clover
-tags: [clover , 使用教程]
-ate : 2015-9-21
-duoshuo: true
+title: "clover 隐藏多余的磁盘"
+category: "clover"
+tags: ["clover" , "使用教程"]
 ---
+{% include JB/setup %}
 
 ### 废话不多说,上视频
+
 视频中演示的是`clover`隐藏多余启动磁盘,
 使用的工具是`Clover Configurator`
 
 
-
-<iframe src="http://player.youku.com/embed/XMTMzMzIyNzcwOA==" frameborder="0" width="900" height="600"></iframe>
-
+### 国内用户
+[优酷传送门](http://player.youku.com/embed/XMTMzMzIyNzcwOA==)
 
 ### 海外用户请移步
 

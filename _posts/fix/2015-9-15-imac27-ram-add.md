@@ -1,12 +1,11 @@
 ---
-title: iMac 27"5K Retina 内存更换教程
+title: "iMac 27"5K Retina 内存更换教程"
 layout: post
 permalink: /2015-9-15-imac27-ram-add.html
-category: fix
-tags: [imac Retina 5K , 维修教程]
-date : 2015-9-15
-duoshuo: true
+category: "fix"
+tags: ["imac Retina 5K" , "维修教程"]
 ---
+{% include JB/setup %}
 
 ## 准备工作
 

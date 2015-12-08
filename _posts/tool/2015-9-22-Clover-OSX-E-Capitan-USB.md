@@ -1,11 +1,10 @@
 ---
-title: El Capitan USB安装盘制作工具 
+title: "El Capitan USB安装盘制作工具"
 layout: post
-category: tool
+category: "tool"
 tags: [El Capitan]
-date : 2015-9-22
-duoshuo: true
 ---
+{% include JB/setup %}
 
 ##  简介
 

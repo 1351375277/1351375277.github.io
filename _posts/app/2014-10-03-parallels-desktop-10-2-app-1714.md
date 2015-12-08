@@ -1,12 +1,12 @@
 ---
-title: Parallels Desktop 10.1.2-28859 强势来袭！完美支持Yosemite10.10正式版
+title: "Parallels Desktop 10.1.2-28859 强势来袭！完美支持Yosemite10.10正式版"
 layout: post
 permalink: /1714.html
-category: app
-tags: [Parallels]
-date : 2014-10-3
-duoshuo: true
+category: "app"
+tags: ["Parallels"]
 ---
+{% include JB/setup %}
+
 **Parallels Desktop** 被称为 Mac 电脑上最强大的虚拟机软件。用户可以在 OS X 下同时运行 Windows、Linux 等操作系统及软件，而不必繁琐地重启电脑，并能轻松在 Win 与 Mac 等不同系统之间切换。
 
 最新的 Parallels Desktop 10  完美支持 OS X Yosemite 和 Windows 8.1 并进行了特别优化，完美支持 Retina Macbook Pro 的视网膜屏幕，支持在 Win 中使用 Mac 的听写功能，调用IE浏览器打开网页、蓝牙共享、支持USB 3.0、改进了3D游戏/图形性能等等，可谓相当强悍！而且在性能和功能上比 VMWare Fusion 7 均有过之而无不及，无疑是 Mac 电脑用户必备的神器……
