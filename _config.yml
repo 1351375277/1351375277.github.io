@@ -8,7 +8,6 @@ paginate: 10
 encoding: utf-8
 highlighter: pygments
 markdown: redcarpet
-markdown: Lazysizes
 redcarpet:
   extensions: ["no_intra_emphasis", "fenced_code_blocks", "autolink", "strikethrough", "superscript", "with_toc_data", "tables"]
 
